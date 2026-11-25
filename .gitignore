@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+receipts.csv
+.env
+.DS_Store.venv/
